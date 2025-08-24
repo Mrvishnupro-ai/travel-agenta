@@ -122,9 +122,10 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)
 
-  This project is developed and maintained by [![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)](https://github.com/ByteBrains)
+  This project is developed and maintained by <br> [![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)](https://github.com/ByteBrains)
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
 
 
