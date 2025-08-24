@@ -1,8 +1,5 @@
 # 🌍Travel Agenta
 
-
-<!-- Status & Build Badges -->
-
 <!-- Technology Stack Badges -->
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)
@@ -124,6 +121,7 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
 
 
 
