@@ -2,15 +2,12 @@
 
 
 <!-- Status & Build Badges -->
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
 <!-- Technology Stack Badges -->
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)
 ![Tavily](https://img.shields.io/badge/Tavily-Search%20API-orange.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 <!-- Features Badges -->
 ![Travel Planning](https://img.shields.io/badge/Feature-Travel%20Planning-green.svg)
@@ -129,4 +126,5 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
 
