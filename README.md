@@ -20,20 +20,18 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="27" /> Features
 
-- ✈️ **Intelligent Travel Planning** - AI-powered itinerary generation
-- ** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="25" height="25" /> Streamlit-based UI** - Clean and intuitive user interface for easy travel preference input. Smooth, lag-free planning experience
-- 🗓<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="20" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="25" height="25" /> **Calendar Integration** - Automatic event scheduling,Adds events to your calendar and sends invites automatically
+- ✈<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="20" height="20" /> **Intelligent Travel Planning** - AI-powered itinerary generation
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" /> ** Streamlit-based UI** - Clean and intuitive user interface for easy travel preference input. Smooth, lag-free planning experience
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="20" /> **Calendar Integration** - Automatic event scheduling,Adds events to your calendar and sends invites automatically
 - 📧 **Email Reports** - Comprehensive trip details via email,Sends a detailed itinerary to the provided email addresses for future reference with one click
 
-- **Integrated Search with Tavily** - Provides real-time recommendations for destinations, activities, and travel options
-
-- **Web Browsing Tool** - Gathers dynamic data for more accurate and updated planning
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />
+**Integrated Search with Tavily** - Provides real-time recommendations for destinations, activities, and travel options
+- 🌐 **Web Browsing Tool** - Gathers dynamic data for more accurate and updated planning
 - **Activities & Custom Instructions** - Users can add their own authentic ideas to make the trip more unique
-
 - 🌐 **Multi-destination Support** - Plan trips anywhere in the world
 - 💰 **Budget Planning** - Customizable budget considerations
-- 👥 **Trip Types** - Solo, Family, Friends, or Business travel
+- 📍 **Trip Types** - Solo, Family, Friends, or Business travel
 - 🏨 **Accommodation Options** - Budget, Luxury, or Flexible stays
 - 🍽️ **Dining Preferences** - Veg, Non-veg, or Flexible options
 
@@ -48,7 +46,7 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 | 📅 **Calendar** | Portia AI + Calendar Tool |
 | 🐍 **Language** | Python 3.11+ |
 
-## 📂 Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" /> Project Structure
 ```bash.
 ├── app.py                # Main Streamlit app
 ├── requirements.txt      # Dependencies
@@ -56,13 +54,13 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 └── README.md             # Documentation
 ```
 
-## 📋 Requirements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="25" height="25" /> Requirements
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red?logo=streamlit&logoColor=white)
 ![Portia](https://img.shields.io/badge/Portia-AI%20Framework-purple)
 
-## 🔑 API Keys Required
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="25" height="25" /> API Keys Required
 
 - 🔐 **Portia API Key** - AI agent orchestration
 - 🤖 **Google Gemini API Key** - LLM processing
@@ -126,6 +124,7 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
 
 
 
