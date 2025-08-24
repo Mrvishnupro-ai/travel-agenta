@@ -102,7 +102,7 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 <br>
 
 ## 🧩 Core Flow
-<img src="https://github.com/Mrvishnupro-ai/travel-agenta/blob/main/flowchart.jpg" alt="Flowchart">
+<img src="https://github.com/Mrvishnupro-ai/travel-agenta/blob/main/flowchart" alt="Flowchart">
 
 <br>
 
@@ -129,3 +129,4 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
