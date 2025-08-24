@@ -22,8 +22,7 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="20" height="20" /> **Calendar Integration** - Automatic event scheduling,Adds events to your calendar and sends invites automatically
 - 📧 **Email Reports** - Comprehensive trip details via email,Sends a detailed itinerary to the provided email addresses for future reference with one click
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />
-**Integrated Search with Tavily** - Provides real-time recommendations for destinations, activities, and travel options
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />**Integrated Search with Tavily** - Provides real-time recommendations for destinations, activities, and travel options
 - 🌐 **Web Browsing Tool** - Gathers dynamic data for more accurate and updated planning
 - **Activities & Custom Instructions** - Users can add their own authentic ideas to make the trip more unique
 - 🌐 **Multi-destination Support** - Plan trips anywhere in the world
@@ -121,6 +120,7 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
+
 
 
 
